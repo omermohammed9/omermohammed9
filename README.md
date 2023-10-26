@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align ="center">
-  <a href="https://linkedin.com/in/omar-mohammed-739a1b208">
+  <a href="https://linkedin.com/in/omar-mohammed-739a1b208/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/omarmohammed99">
