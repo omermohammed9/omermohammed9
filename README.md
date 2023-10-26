@@ -58,3 +58,18 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
 
 </div>
+
+---
+
+### :fire: My Stats :
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omermohammed9&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omermohammed9)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omermohammed9&show_icons=true&theme=transparent)
+
+---
+
+### :writing_hand: Blog Posts :
+
