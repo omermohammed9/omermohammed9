@@ -68,8 +68,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omermohammed9)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omermohammed9&show_icons=true&theme=transparent)
-
----
-
-### :writing_hand: Blog Posts :
-
