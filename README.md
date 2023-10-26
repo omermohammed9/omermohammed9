@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align ="center">
-  <a href="www.linkedin.com/in/omar-mohammed-739a1b208/">
+  <a href="linkedin.com/in/omar-mohammed-739a1b208//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="leetcode.com/omarmohammed99">
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
