@@ -11,9 +11,9 @@
   </a>
 </div>
 
-/*<div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=omermohammed9&style=flat-square&color=blue&" alt=""/>
-</div>*/
+</div>
 
 <h1 align="center">
   Hey There 
@@ -36,7 +36,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/omar-mohammed-739a1b208/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Omer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohammed-739a1b208/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
