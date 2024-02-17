@@ -11,9 +11,9 @@
   </a>
 </div>
 
-<div align="center">
+/*<div align="center">
   <img src="https://komarev.com/ghpvc/?username=omermohammed9&style=flat-square&color=blue&" alt=""/>
-</div>
+</div>*/
 
 <h1 align="center">
   Hey There 
