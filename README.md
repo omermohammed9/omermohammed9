@@ -20,51 +20,51 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+---
+
+### 👨‍💻 About Me
+
+I am a **Full-Stack Software Engineer** based in Iraq, focused on building high-performance APIs, robust web architectures, and seamless cross-platform mobile apps.
+
+*   🔭 I build scalable full-stack applications with Node.js, Go (Golang), and Java.
+*   🌱 I am currently diving deeper into advanced systems architecture, cryptography, and technical writing.
+*   ⚡ I enjoy resolving complex design problems, optimizing database queries, and code organization.
 
 ---
 
-### :man_technologist: About Me :
+### 🚀 Featured Portfolio Projects
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
+#### 🌟 [AuraCommerce](https://github.com/omermohammed9/Tsc-Prisma-MySQL)
+A TypeScript e-commerce engine leveraging Prisma ORM and MySQL. Focuses on robust API designs, structured schema migrations, and optimized database queries.
+*   *Tech Stack:* TypeScript, Node.js, Prisma, MySQL
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+#### 📱 [Slotwise](https://github.com/omermohammed9/slotwise)
+An intelligent, concurrent scheduling and slot booking platform with user-friendly calendar views.
+*   *Tech Stack:* Go (Golang), Flutter / Dart, PostgreSQL
 
-- :seedling: Exploring Technical Content Writing.
+#### 🛡️ [StealthImage](https://github.com/omermohammed9/stealthimage)
+A cryptography and steganography tool designed to securely encode and conceal encrypted messages within image pixels.
+*   *Tech Stack:* Python, Cryptography, OpenCV
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Omer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohammed-739a1b208/)
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain-wordmark.svg" title="Vue.js" **alt="Vue.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
-
-</div>
+#### 💼 [Omar Abbas Portfolio](https://github.com/omermohammed9/Omar-Abbas-Portfolio)
+My personal interactive portfolio web app designed to showcase my experience, developer journey, and projects.
+*   *Tech Stack:* HTML/CSS, JavaScript, Responsive UI
 
 ---
 
-### :fire: My Stats :
+### 🛠️ Tech Stack & Toolbox
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=omermohammed9&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks / Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omermohammed9)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omermohammed9&show_icons=true&theme=transparent)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omermohammed9&show_icons=true&theme=tokyonight&count_private=true" alt="Omer's GitHub Stats" />
+</p>
