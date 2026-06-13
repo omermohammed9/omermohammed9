@@ -36,19 +36,19 @@ I am a **Full-Stack Software Engineer** based in Iraq, focused on building high-
 
 #### 🌟 [AuraCommerce](https://github.com/omermohammed9/Tsc-Prisma-MySQL)
 A TypeScript e-commerce engine leveraging Prisma ORM and MySQL. Focuses on robust API designs, structured schema migrations, and optimized database queries.
-*   *Tech Stack:* TypeScript, Node.js, Prisma, MySQL
+*   *Tech Stack:* TypeScript, Express, Prisma ORM, MySQL
 
 #### 📱 [Slotwise](https://github.com/omermohammed9/slotwise)
 An intelligent, concurrent scheduling and slot booking platform with user-friendly calendar views.
-*   *Tech Stack:* Go (Golang), Flutter / Dart, PostgreSQL
+*   *Tech Stack:* TypeScript, Express, MongoDB (Mongoose), React, Vite
 
 #### 🛡️ [StealthImage](https://github.com/omermohammed9/stealthimage)
-A cryptography and steganography tool designed to securely encode and conceal encrypted messages within image pixels.
-*   *Tech Stack:* Python, Cryptography, OpenCV
+A python-based image steganography tool designed to securely encode and conceal encrypted messages within image pixels.
+*   *Tech Stack:* Python, Flask, Pillow (Image Processing)
 
 #### 💼 [Omar Abbas Portfolio](https://github.com/omermohammed9/Omar-Abbas-Portfolio)
 My personal interactive portfolio web app designed to showcase my experience, developer journey, and projects.
-*   *Tech Stack:* HTML/CSS, JavaScript, Responsive UI
+*   *Tech Stack:* Astro, React, Tailwind CSS, TypeScript
 
 ---
 
